@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1 {
+    font-size: 2em;
+    color: darkgreen;
+
+}
+
+#titulo-principal {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+
+}

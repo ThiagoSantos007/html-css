@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body {
+    background-color:#EAEAEA;
+
+}
+h1{
+    text-align: center;
+}
+
+div {
+    background-color:#F56A5D;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #F56A5D;
+    width:auto;
+    height:auto;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+
+}
+
+#botao {
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px #F56A5D;
+
+
+}
