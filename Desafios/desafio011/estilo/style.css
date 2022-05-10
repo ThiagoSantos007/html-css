@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+    position: relative;
+    background: black url("/imagens/espaco.jpg") center center no-repeat fixed;
+    height: 96vh;
+}
+
+img {
+    position: absolute;
+    
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
